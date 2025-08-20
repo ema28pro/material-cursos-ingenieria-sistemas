@@ -5,6 +5,8 @@ La Programación Orientada a Objetos (P.O.O.) es un paradigma que organiza el c�
 ## Resultados de aprendizaje
 - Analizar un problema identificando correctamente las entradas, el proceso y la salida asociados a su solución.
 - Escribir algoritmos y programas que solucionen problemas computacionales.
+
+
 ## Contenido temático
 - El paradigma orientado a objetos y sus propiedades (abstracción y encapsulamiento)
 - Clases, objetos, atributos y métodos
