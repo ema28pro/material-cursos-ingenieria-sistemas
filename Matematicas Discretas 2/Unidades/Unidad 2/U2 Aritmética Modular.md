@@ -1,0 +1,5 @@
+La aritmética modular, se conoce como la aritmética del reloj, ya que es fácil de reconocer cuando se aprende a decir la hora. También es una técnica matemática que esta implícita cuando se hacen compras en línea, banca por Internet o se envían mensajes privados a amigos en las redes sociales.
+
+La aritmética modular se usa ampliamente en las matemáticas puras, en la que es la piedra angular de la teoría de números. Pero también, tiene muchas aplicaciones prácticas, por ejemplo, se utiliza para calcular sumas de verificación para números de libros estándar internacionales (ISBN) e identificadores bancarios (números Iban), así como para detectar posibles errores en ellos.
+
+La aritmética modular también es la base de los sistemas criptográficos de clave pública, que son vitales para el comercio moderno, además, es muy utilizada en informática. Finalmente, en teoría musical, la aritmética del módulo 12 se usa para analizar el sistema de temperamento igual de 12 tonos, cuando las notas separadas por una octava de 12 semitonos se tratan como equivalentes.

@@ -1,0 +1,3 @@
+La combinatoria es la matemática de contar y ordenar. Por supuesto, la mayoría de la gente sabe contar, pero la combinatoria aplica operaciones matemáticas para contar cantidades que son demasiado grandes para contar de una manera convencional.
+
+La combinatoria es especialmente útil en informática, por ejemplo, los métodos de combinatoria se pueden usar para desarrollar estimaciones sobre cuántas operaciones requerirá un algoritmo de computadora. La combinatoria también es importante para el estudio de la probabilidad discreta. Los métodos combinatorios se pueden utilizar para contar los posibles resultados en un experimento de probabilidad uniforme.

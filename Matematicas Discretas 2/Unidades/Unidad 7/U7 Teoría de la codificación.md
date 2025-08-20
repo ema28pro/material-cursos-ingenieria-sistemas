@@ -1,0 +1,13 @@
+A finales del siglo XIX y principios del XX los sistemas de comunicación tenían sus pilares en el código Morse y otros esquemas de codificación simples, estos no permitían hacer corrección de errores, lo que llevaba a malentendidos en la comunicación y a constantes errores, en especial cuando se trataba de larga distancia.
+
+El primer avance en la teoría de la codificación se produjo en 1947, cuando el matemático estadounidense Claude Shannon publicó su histórico artículo titulado Una teoría matemática de la comunicación. En este documento Shannon introdujo el concepto de capacidad de canal, que describe la cantidad máxima de información que se puede transmitir a través de un canal de comunicación ruidoso con un ancho de banda y una relación señal/ruido determinado. También presentó la idea de los códigos de corrección de errores, que demostró que podrían usarse para acercarse al límite de capacidad del canal.
+
+Desde entonces, la teoría de la codificación se ha convertido en un campo diverso y abundante, con contribuciones de muchos matemáticos, ingenieros e informáticos. Hoy en día la teoría de la codificación es una parte esencial de los sistemas de comunicación modernos y sigue desempeñando un papel clave en el avance del estado del arte en telecomunicaciones, redes e informática.
+
+La teoría de la codificación es el estudio de cómo transmitir información de manera eficiente y precisa a través de canales de comunicación ruidosos. Implica el diseño y análisis de códigos de corrección de errores, que se utilizan para agregar redundancia a los datos, de tal manera que los errores introducidos por el canal de comunicación puedan detectarse y corregirse.
+
+Los códigos de corrección, generalmente, se implementan como algoritmos que agregan bits adicionales a los datos que se transmiten, de modo que, si ocurren errores durante la transmisión, el receptor puede usar estos bits adicionales para determinarlos y corregirlos. Esto puede mejorar en gran medida la confiabilidad y precisión de la transmisión de datos, especialmente, a largas distancias o en entornos ruidosos.
+
+La teoría de la codificación tiene muchas aplicaciones prácticas, incluso en telecomunicaciones, redes informáticas y sistemas de almacenamiento. También se usa en criptografía, donde los códigos son utilizados para proteger la información del acceso no autorizado o la manipulación.
+
+Algunos de los conceptos clave en la teoría de la codificación incluyen códigos de bloque, códigos convolucionales, códigos Reed-Solomon y códigos turbo. Estos están diseñados para optimizar diferentes aspectos de la transmisión de datos, como la capacidad de corrección de errores, la eficiencia y la complejidad.
